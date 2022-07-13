@@ -4,8 +4,8 @@
 - 📫 How to reach me:
   - [Twitter: @DBALucasD](https://twitter.com/DBALucasD)
   - [Instagram: @dbalucas](https://instagram.com/dbalucas?=igshid=YmMyMTA2M2Y=)
-  - [Xing: Lucas Dürksen](https://www.xing.com/profile/Lucas_Duerksen)
-  - [LinkedIn: Lucas Dürksen](https://www.linkedin.com/in/lucas-dürksen)
+  - [Xing: Lucas](https://www.xing.com/profile/Lucas_Duerksen)
+  - [LinkedIn: Lucas](https://www.linkedin.com/in/lucas-dürksen)
   - [Github: @dbalucas](http://github.com/dbalucas)
 
 <!---
