@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python and Django
 - 📫 How to reach me:
   - [Twitter: @DBALucasD](https://twitter.com/DBALucasD)
-  - [Instagram: @dbalucas](https://instagram.com/dbalucas?=igshid=YmMyMTA2M2Y=)
+  - [Instagram: @dbalucas](https://instagram.com/dbalucasd)
   - [Xing: Lucas](https://www.xing.com/profile/Lucas_Duerksen)
   - [LinkedIn: Lucas](https://www.linkedin.com/in/lucas-dürksen)
   - [Github: @dbalucas](http://github.com/dbalucas)
